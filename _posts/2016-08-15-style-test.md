@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Full and Comprehensive Style Test"
+title: "Esse é outro post alterado via celular com obsidian"
 tags: [test, style]
 comments: true
 ---
