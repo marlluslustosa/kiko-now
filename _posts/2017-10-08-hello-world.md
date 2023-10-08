@@ -15,3 +15,5 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 Esse texto final foi adicionado aqui a partir do Android, com plugin do obsidian git.
 Opa
+
+E isso aqui ainda foi alteração minha vida Android.
