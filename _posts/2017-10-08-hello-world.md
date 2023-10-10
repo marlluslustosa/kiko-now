@@ -17,3 +17,4 @@ Esse texto final foi adicionado aqui a partir do Android, com plugin do obsidian
 Opa
 
 E isso aqui ainda foi alteração minha vida Android.
+Alterado em 10/10 pelo celular
